@@ -7,7 +7,6 @@ The application enables users to enter inputs into a inquirer prompt in order to
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Questions](#questions)
 
 ## Installation
 run npm and install the following
